@@ -1,0 +1,1 @@
+Django Practice platform with git and github
