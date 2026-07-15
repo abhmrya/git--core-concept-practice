@@ -1,4 +1,8 @@
-num1 = int(input("Enter the first number:"))
-num2 = int(input("Enter the second number: "))
-sum = num1 + num2
-print("The sum of two num a=",num1,", b=",num2," is ", sum)
+
+
+def func(num1,num2):
+    return num1+num2
+num1 = 4
+num2 = 3    
+a=func(num1,num2)
+print(a)
